@@ -1,0 +1,10 @@
+---------CIERRE DE CAJA-------------
+|PROVEEDORES|
+33    corpoandes
+555  mariaVerduras  0412553333
+|PRODUCTOS A RESTABLECER|
+22  manzanas  789  9  6
+55  pechuga  11  2  2
+445  peras  33  5  2
+777  leche  33  18  2
+333  zanahorias  555  40  4
